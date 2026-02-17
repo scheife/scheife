@@ -25,27 +25,6 @@
   </tr>
 </table>
 
-## Preferred Tech Stack
-
-<h3> Frontend & Grundlagen</h3>
-<p align="left">
-  <img src="./assets/skill_icons/html.png" height="32" alt="HTML" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/CSS.png" height="32" alt="CSS" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/js.png" height="32" alt="JavaScript" style="margin-right:8px;" />
-</p>
-
-<h3> Backend & Smart Home</h3>
-<p align="left">
-  <img src="./assets/skill_icons/Python.png" height="32" alt="Python" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/home_assistant.png" height="32" alt="Home Assistant" style="margin-right:8px;" />
-</p>
-
-<h3> Dev-Tools & Hobby</h3>
-<p align="left">
-  <img src="./assets/skill_icons/git.png" height="32" alt="Git" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/vscode.png" height="32" alt="VS Code" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/woodworking.png" height="32" alt="Woodworking" />
-</p>
 
 ###
 

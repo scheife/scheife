@@ -4,10 +4,11 @@
 
 
 <p align="center">
-  👋 Grias di! Ich bin <strong>Alex</strong> 🇦🇹
+  👋 Grias di! 
+  <p> Ich bin <strong>Alex</strong> 🇦🇹 </p>
   <br /><br />
   Vom <strong>Maler- und Beschichtungstechniker</strong> zum <strong>Logistik-Supervisor</strong> und jetzt auf der Reise in die Welt des <strong>Codings</strong>. 
-  Ich komme aus dem schönen Kärnten und liebe es, Dinge zu erschaffen – egal ob aus Holz in meiner Werkstatt oder aus Code am Bildschirm.
+  <p> Ich komme aus dem schönen Kärnten und liebe es, Dinge zu erschaffen – egal ob aus Holz in meiner Werkstatt oder aus Code am Bildschirm. </p>
 
 </p>
 

@@ -64,7 +64,7 @@
 ##  Contact & Motto
 
  <a href="https://www.linkedin.com/in/alexander-scheiflinger/" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none">
-    <img src="./assets/icons/linkedin.png" width="32" height="32" alt="LinkedIn" />
+    <img src="./assets/icons/linkedin2.png" width="32" height="32" alt="LinkedIn" />
   </a>
 
 </p>

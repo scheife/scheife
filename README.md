@@ -15,12 +15,12 @@
 
 ---
 
-### 🛠 Über mich
+### Über mich
 
-* 🏗 **Beruflich:** Aktuell Supervisor im Warehouse-Management. Ich kenne mich mit komplexen Abläufen und Führung aus.
-* 🏠 **Smart Home Enthusiast:** Mein Zuhause läuft auf **Home Assistant** (und wie wir wissen: Ein Smart Home ist niemals "fertig").
-* 🪵 **Maker-Herz:** In meiner Werkstatt werkle ich am liebsten mit Holz, oft zusammen mit meinen zwei Söhnen.
-* 👨‍💻 **Coding-Reise:** Aktuell experimentiere ich mit **HTML & CSS**, um die Logik hinter der Technik zu verstehen.
+* **Beruflich:** Aktuell Supervisor im Warehouse-Management. Ich kenne mich mit komplexen Abläufen und Führung aus.
+* **Smart Home Enthusiast:** Mein Zuhause läuft auf **Home Assistant** (und wie wir wissen: Ein Smart Home ist niemals "fertig").
+* **Maker-Herz:** In meiner Werkstatt werkle ich am liebsten mit Holz, oft zusammen mit meinen zwei Söhnen.
+* **Coding-Reise:** Aktuell experimentiere ich mit **HTML & CSS**, um die Logik hinter der Technik zu verstehen.
 
 
 ###

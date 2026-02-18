@@ -47,7 +47,7 @@
 <div align="center" style="margin-bottom: 48px;">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=scheife&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=de" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=scheife&layout=compact&langs_count=5&theme=dracula&locale=de" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=scheife&show_icons=true&count_private=true&theme=dracula&locale=de" height="150" alt="languages graph" />
 </div>
 </div>
 </div>

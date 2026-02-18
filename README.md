@@ -4,11 +4,11 @@
 
 
 <p align="center">
-  👋 Grias di! Ich bin <strong>Alexander Kai Scheiflinger</strong> 🇦🇹
+  👋 Grias di! Ich bin <strong>Alex</strong> 🇦🇹
   <br /><br />
   Vom <strong>Maler- und Beschichtungstechniker</strong> zum <strong>Logistik-Supervisor</strong> und jetzt auf der Reise in die Welt des <strong>Codings</strong>. 
   Ich komme aus dem schönen Kärnten und liebe es, Dinge zu erschaffen – egal ob aus Holz in meiner Werkstatt oder aus Code am Bildschirm.
->>>>>>> 8a22a12 (2026-02-18)
+
 </p>
 
 ---

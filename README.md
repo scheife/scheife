@@ -45,8 +45,10 @@
 ##  GitHub Stats
 
 <div align="center" style="margin-bottom: 48px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=scheife&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=de&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scheife&locale=de&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-git-masterlst-anuraghazras-projects.vercel.app/api?username=scheife&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=de" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats-git-masterlst-anuraghazras-projects.vercel.app/api/top-langs?username=scheife&layout=compact&langs_count=5&theme=dracula&locale=de" height="150" alt="languages graph" />
+</div>
 </div>
 
 ###

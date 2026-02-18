@@ -4,20 +4,30 @@
 
 
 <p align="center">
-  👋 Hi! Ich bin Alexander — gelernter Maler & Beschichtungstechniker, Logistik-Experte und Coder aus Leidenschaft. Ich liebe es, Dinge mit Substanz zu erschaffen, ob aus Holz oder aus Code.
+  👋 Grias di! Ich bin <strong>Alexander Kai Scheiflinger</strong> 🇦🇹
   <br /><br />
-  Als Supervisor im Warehouse sorge ich für reibungslose Abläufe. Mein Ziel ist es, diese logische Effizienz aus der Logistik und die Präzision des Handwerks in meine Software-Projekte zu übertragen.
-  <br /><br />
-  Mein Antrieb? Technik greifbar machen — ob durch ein smartes Home Assistant Setup, ein sauberes Stück Holz aus meiner Werkstatt oder gut strukturierten Code.
+  Vom <strong>Maler- und Beschichtungstechniker</strong> zum <strong>Logistik-Supervisor</strong> und jetzt auf der Reise in die Welt des <strong>Codings</strong>. 
+  Ich komme aus dem schönen Kärnten und liebe es, Dinge zu erschaffen – egal ob aus Holz in meiner Werkstatt oder aus Code am Bildschirm.
+>>>>>>> 8a22a12 (2026-02-18)
 </p>
+
+---
+
+### 🛠 Über mich
+
+* 🏗 **Beruflich:** Aktuell Supervisor im Warehouse-Management. Ich kenne mich mit komplexen Abläufen und Führung aus.
+* 🏠 **Smart Home Enthusiast:** Mein Zuhause läuft auf **Home Assistant** (und wie wir wissen: Ein Smart Home ist niemals "fertig").
+* 🪵 **Maker-Herz:** In meiner Werkstatt werkle ich am liebsten mit Holz, oft zusammen mit meinen zwei Söhnen.
+* 👨‍💻 **Coding-Reise:** Aktuell experimentiere ich mit **HTML & CSS**, um die Logik hinter der Technik zu verstehen.
 
 
 ###
-##  Berufserfahrung & Leidenschaft
+
+##  Aktuelle Tätigkeit
 
 <table >
   <tr>
-    <td><img src="./assets/icons/warehouse.png" width="40" alt="Work Icon" /></td>
+    <td><img src="./assets/forklift.svg" width="40" alt="Work Icon" /></td>
     <td style="padding-left: 12px;">
       <span style="color: white; font-weight: bold;">Warehouse Supervisor</span><br />
       <span style="color: white;">Logistik & Prozessmanagement</span>
@@ -53,9 +63,11 @@
 
 </p>
 
-<p align="center">
-  <br />
+<blockquote align="center">
   <strong>"Vom Pinsel zum Pixel – Logik bleibt Handwerk."</strong>
-</p>
+  <br />
+  Ich glaube daran, dass gute Technik wie ein gut verarbeitetes Stück Holz sein sollte: 
+  Stabil, funktional und sauber durchdacht.
+</blockquote>
 
 ###

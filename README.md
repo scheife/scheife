@@ -30,13 +30,13 @@
     <td>🟢 Live</td>
   </tr>
   <tr>
-    <td><strong>scherzer-psychotherapie.at</strong></td>
+    <td><strong><a href="https://www.scherzer-psychotherapie.at/">scherzer-psychotherapie.at</a></strong></td>
     <td>Erste Kundenwebsite. Psychotherapie-Praxis aus dem Raum Villach.</td>
     <td>🟢 Live</td>
   </tr>
   <tr>
     <td><strong>WhispaWos</strong></td>
-    <td>Lokale macOS Sprache-zu-Text App. Kärntnerisch für „Ich flüster was" — alles offline, kein Cloud-API, selbst gebaut.</td>
+    <td>Lokale macOS Sprache-zu-Text App. Kärntnerisch für „Ich flüster was" — alles offline, kein Cloud-API und mit optionaler Lokaler KI einbindung.</td>
     <td>🔧 In Entwicklung</td>
   </tr>
 </table>

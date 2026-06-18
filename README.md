@@ -5,7 +5,7 @@
 <p align="center">
   👋 Grias di!<br />
   Ich bin <strong>Alex</strong> aus Kärnten 🇦🇹<br /><br />
-  Maler-Lehrling, Lagermitarbeiter, Warehouse Supervisor.<br />
+  Gelernter Maler & Beschichtungstechniker, Lagermitarbeiter, Warehouse Supervisor.<br />
   Seit ein paar Jahren auch Webentwickler.<br /><br />
   Ich baue Dinge. Mit Holz in der Werkstatt, mit Code am Rechner.
 </p>
@@ -35,8 +35,8 @@
     <td>🟢 Live</td>
   </tr>
   <tr>
-    <td><strong>PetCard</strong></td>
-    <td>Mobile App für Tiergesundheitsdaten. Immer dabei, auch beim fremden Tierarzt.</td>
+    <td><strong>WhispaWos</strong></td>
+    <td>Lokale macOS Sprache-zu-Text App. Kärntnerisch für „Ich flüster was" — alles offline, kein Cloud-API, selbst gebaut.</td>
     <td>🔧 In Entwicklung</td>
   </tr>
 </table>
@@ -46,13 +46,19 @@
 ## Tech Stack
 
 <p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Claude-Co--Pilot-CC785C?style=flat-square" alt="Claude Co-Pilot" />
+</p>
+
+<sub>Ich baue mit Claude als Co-Pilot — die Ideen kommen von mir, den Code schreiben wir gemeinsam.</sub>
 
 ###
 
@@ -88,7 +94,7 @@
 ## Contact
 
 <a href="https://alexmacht.at" target="_blank" title="alexmacht.at" style="text-decoration: none; margin-right: 8px;">
-  <img src="https://img.shields.io/badge/alexmacht.at-606C38?style=flat-square&logoColor=white" alt="alexmacht.at" />
+  <img src="./assets/icons/alexmacht-button.svg" height="32" alt="alexmacht.at" />
 </a>
 <a href="https://www.linkedin.com/in/alexander-scheiflinger/" target="_blank" title="LinkedIn" style="text-decoration: none">
   <img src="./assets/icons/linkedin2.png" width="32" height="32" alt="LinkedIn" />
